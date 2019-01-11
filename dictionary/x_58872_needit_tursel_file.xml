@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="TurSel file" max_length="40" name="x_58872_needit_tursel_file" type="collection">
+        <element label="Description" max_length="100" name="description" type="string_full_utf8"/>
+        <element label="File" max_length="40" name="file" type="file_attachment"/>
+    </element>
+</database>
